@@ -7,6 +7,7 @@ setup(
     install_requires=[
         'flask',
         'pytube',
+		'YouTube',
     ],
 	package_dir={"": r"C:\Users\ASUS\PycharmProjects\youtube downloader website"},
 
