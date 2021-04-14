@@ -8,6 +8,6 @@ setup(
         'flask',
         'pytube',
     ],
-	package_dir={"": "youtube downloader website"},
+	package_dir={"": r"C:\Users\ASUS\PycharmProjects\youtube downloader website"},
 
 )
