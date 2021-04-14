@@ -8,4 +8,6 @@ setup(
         'flask',
         'pytube',
     ],
+	package_dir={"": "youtube downloader website"},
+    packages=setuptools.find_packages(where="youtube downloader website"),
 )
